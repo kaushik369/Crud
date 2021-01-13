@@ -11,8 +11,6 @@ namespace Crud.Controllers
         public ActionResult Index()
         {
             return View();
-
-
             //changes
         }
 
